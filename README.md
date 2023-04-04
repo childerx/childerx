@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Nothing seems normal to me🤐**
 
-<h3 align="left">Connect w me:</h3>
+<h3 align="left">Connect wi me:</h3>
 <p align="left">
 <a href="https://twitter.com/zigikwame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zigikwame" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kwame zigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="childerx" height="30" width="40" /></a>
